@@ -5,7 +5,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-white?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Eu_code)](https://t.me/Eu_code)
 
 <a href="https://github.com/EuclidesXcode/EuclidesXcode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EuclidesXcode&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=000ed1&bg_color=1d1f21&hide=contribs,issues,prs"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EuclidesXcode&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=09c8e5&bg_color=1d1f21&hide=contribs,issues,prs"/>
 </a>
 
 ---
@@ -18,15 +18,15 @@
 ---
 ### Technologies & Tools
 
-![](https://img.shields.io/badge/Code-Node.Js-informational?style=flat&logo=node.js&logoColor=white&color=000ed1)
-![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=000ed1)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=000ed1)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=000ed1)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=angular&logoColor=white&color=000ed1)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=000ed1)  
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=000ed1)
-![](https://img.shields.io/badge/Database-MySql-informational?style=flat&logo=mysql&logoColor=white&color=000ed1)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=000ed1)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=000ed1)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=000ed1)
-![](https://img.shields.io/badge/CI/CD-Jankings-informational?style=flat&logo=jankings&logoColor=white&color=000ed1)
+![](https://img.shields.io/badge/Code-Node.Js-informational?style=flat&logo=node.js&logoColor=white&color=09c8e5)
+![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=09c8e5)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=09c8e5)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=09c8e5)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=angular&logoColor=white&color=09c8e5)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=09c8e5)  
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=09c8e5)
+![](https://img.shields.io/badge/Database-MySql-informational?style=flat&logo=mysql&logoColor=white&color=09c8e5)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=09c8e5)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=09c8e5)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=09c8e5)
+![](https://img.shields.io/badge/CI/CD-Jankings-informational?style=flat&logo=jankings&logoColor=white&color=09c8e5)
