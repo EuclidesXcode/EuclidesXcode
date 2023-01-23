@@ -13,7 +13,7 @@
 ### About me
 
 - My name is Euclides, I am a software engineer and currently live in Brazil.
-- I work with development for at least 3 years, I have experience with many technologies but I stand out with JavaScript and Typescript.
+- I work with development for at least 4 years, I have experience with many technologies but I stand out with JavaScript and Typescript.
 
 ---
 ### Technologies & Tools
