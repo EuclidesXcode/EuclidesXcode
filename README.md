@@ -1,6 +1,6 @@
 # Euclides Silva :man_technologist:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EuclidesXcode)](https://github.com/EuclidesXcode)) 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EuclidesXcode)](https://github.com/EuclidesXcode)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/euclides-silva-48b1b2157/)](https://www.linkedin.com/in/euclides-silva-48b1b2157/) 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-white?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Eu_code)](https://t.me/Eu_code)
 
