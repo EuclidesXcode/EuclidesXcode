@@ -5,7 +5,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-white?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Eu_code)](https://t.me/Eu_code)
 
 <a href="https://github.com/EuclidesXcode/EuclidesXcode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EuclidesXcode&hide=contribs&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=09c8e5&bg_color=1d1f21&hide=contribs,issues,prs"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EuclidesXcode&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=09c8e5&bg_color=1d1f21&hide=contribs,issues,prs"/>
 </a>
 
 ---
