@@ -22,7 +22,7 @@
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=09c8e5)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=09c8e5)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=09c8e5)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=angular&logoColor=white&color=09c8e5)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=09c8e5)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=09c8e5)  
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=09c8e5)
 ![](https://img.shields.io/badge/Database-MySql-informational?style=flat&logo=mysql&logoColor=white&color=09c8e5)
