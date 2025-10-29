@@ -53,7 +53,6 @@ Hey there! I'm **Euclides**, but everyone calls me **Eucode** — a **Senior Sof
 <div align="center">
   <a href="https://github.com/EuclidesXcode">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EuclidesXcode&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true"/>
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=EuclidesXcode&theme=tokyonight&hide_border=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuclidesXcode&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
