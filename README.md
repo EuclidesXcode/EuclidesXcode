@@ -10,10 +10,10 @@
 
 Hey there! I'm **Euclides**, but everyone calls me **Eucode** — a **Senior Software Engineer** passionate about building scalable and intelligent systems.  
 
-- 💻 14+ years working with technology, and **over 7 years in software development**.  
+- 💻 14+ years working with technology, and **over 11 years in software development**.  
 - ⚙️ Specialized in **JavaScript**, **TypeScript**, and **modern web stacks** like **Next.js**, **React**, and **Elysia.js**.  
 - 🧠 Background in **hardware, security, and IT**, which gives me a full-system mindset.  
-- 🚀 Currently working at **Accurate**, building products with **performance, automation, and reliability** in mind.  
+- 🚀 Currently working at **Kaspper**, building products with **performance, automation, and reliability** in mind.  
 - 🌎 Based in Brazil, collaborating remotely with global teams.  
 
 > “Technology only matters when it solves real problems.”  
